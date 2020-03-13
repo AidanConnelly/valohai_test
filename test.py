@@ -1,0 +1,6 @@
+print(json.dumps({a:1, b:1})
+print(json.dumps({a:2, b:1})
+print(json.dumps({a:3, b:1})
+print(json.dumps({a:3, b:5})
+print(json.dumps({a:3, b:6})
+print(json.dumps({a:3, b:7})
